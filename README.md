@@ -34,4 +34,5 @@ Navigate to the project directory and type
 Your browser should launch a new tab displaying the movie trailer website.
 
 CREATOR
+ 
  SreeSatya Chalasani
