@@ -3,7 +3,7 @@ import webbrowser
 
 
 class Movie():
-    # """ This class provides a movie related information"""
+    # """ This class provides a movie related information like ratings, title etc"""
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]  # static varible
     # Creation of the constructor Movie
 
