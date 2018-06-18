@@ -33,6 +33,13 @@ Navigate to the project directory and type
 
 Your browser should launch a new tab displaying the movie trailer website.
 
+<div align="center">
+    <img src="/movie.png" width="900px"</img> 
+</div>
+
+
+
+
 CREATOR
  
  SreeSatya Chalasani
